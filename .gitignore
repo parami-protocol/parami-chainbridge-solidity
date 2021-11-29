@@ -1,12 +1,10 @@
-.idea/
-/build
-.history/
-node_modules/
-gethdata/
-gethdata2/
-coverage/
+node_modules
+.env
+coverage
 coverage.json
-src/ethers
-src/web3
-ganache-cli/
-dist/
+typechain
+
+#Hardhat files
+cache
+artifacts
+.DS_Store
