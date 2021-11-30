@@ -5,7 +5,7 @@ const Goverance = '0x2C71b3E0B068C4d365AdD4035Dc7f8eB6dC6C910';
 //const Frontend = '0x5a0350846f321524d0fBe0C6A94027E89bE23bE5';
 async function main() {
   // Deploying
-  const factory = await ethers.getContractFactory("Ad3StakeManager");
+  const factory = await ethers.getContractFactory("ERC20Handler");
   let contract = await upgrades.deployProxy(
     factory, [Goverance, UniswapV3FactoryAddress, NFTAddress])
 

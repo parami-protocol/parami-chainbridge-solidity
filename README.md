@@ -1,11 +1,12 @@
-AD3StakeMangager: https://rinkeby.etherscan.io/address/0x676f430587be833DB073a3268154B59c7F7ba6fe#code
-OldAD3StakeMangager: https://rinkeby.etherscan.io/address/0xbe754c2aeb20b35ea1705fe53dde9a2f4313cb3b#code
-TransparentUpgradeProxy: https://rinkeby.etherscan.io/address/0x18cC8771066450751b8816CEdC10E1889cFcD9c0#code
-ProxyAdmin:
-UniswapV3FactoryAddress: https://rinkeby.etherscan.io/address/0x1F98431c8aD98523631AE4a59f267346ea31F984#code
-NonfungiblePositionManager: https://rinkeby.etherscan.io/address/0xC36442b4a4522E871399CD717aBDD847Ab11FE88#code
-
-
+```
+Compilation finished successfully
+bridge address 0x4C2db4545c1b7ACfb653544868CA6E61757Fb2e9
+0x7ad7d598b79160d3186f0d027681eca517ebb032eeddbd4acc50aae691d78d1a
+bridge deployed
+ERC20HandlerContract address 0x68CA1d8944aA990bd5d616e60C53b2110D4DE996
+0xb06337cc2ab6db9660bf1a5b393912bef9d265eb87bc7752d1013d2b8c8f1087
+ERC20HandlerContract deployed
+```
 
 
 # Advanced Sample Hardhat Project

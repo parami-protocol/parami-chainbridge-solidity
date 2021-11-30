@@ -25,7 +25,7 @@ dotenv.config();
 
 const config: HardhatUserConfig = {
   solidity: {
-    version: '0.7.6',
+    version: '0.6.12',
     settings: {
       optimizer: {
         enabled: true,
@@ -44,7 +44,7 @@ const config: HardhatUserConfig = {
     },
     rinkeby: {
       url: `https://rinkeby.infura.io/v3/${process.env.INFURA_API_KEY}`,
-      accounts: [`${process.env.PRIVATE_KEY}`, ],
+      accounts: [`${process.env.PRIVATE_KEY}`,],
     },
   },
   // gasReporter: {
