@@ -6,6 +6,8 @@ bridge deployed
 ERC20HandlerContract address 0x68CA1d8944aA990bd5d616e60C53b2110D4DE996
 0xb06337cc2ab6db9660bf1a5b393912bef9d265eb87bc7752d1013d2b8c8f1087
 ERC20HandlerContract deployed
+
+https://rinkeby.etherscan.io/address/0x4C2db4545c1b7ACfb653544868CA6E61757Fb2e9
 ```
 
 
