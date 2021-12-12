@@ -18,7 +18,7 @@ async function main() {
   console.log('bridge deployed');
 
   const ERC20Handler = await ethers.getContractFactory("ERC20Handler");
-  const ERC20HandlerContract = await ERC20Handler.deploy(bridge.address);
+  const ERC20HandlerContract = await ERC20Handler.deploy(bridge.address, [], [], []);
   // let ERC20HandlerContract = await upgrades.deployProxy(
   //   ERC20Handler, [contract.address])
 
